@@ -1,0 +1,11 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/kavya/Documents/SeleniumAutomationJava/SeleniumPrograms/Selenium/src/test/java/Assignments">
+        <classes>
+            <class name="Assignments.VWOpage.VWO_Login">
+                <methods>
+                    <include name="vwoLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

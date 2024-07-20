@@ -43,9 +43,7 @@ public class Theory
         // Type of Xpath
 
         // Absolute Xpath - Full Xpath - Type #1
-        // It is too long -
-        // prone to change - any change in div or html - Axpath will  work
-        // no body use Absolute Xpath
+        // It is a too long path. Used very rarely
 
 
         // Relative Xpath (with Query)
