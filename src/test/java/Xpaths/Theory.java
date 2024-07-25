@@ -82,11 +82,10 @@ public class Theory
 
 
         // Xpath Functions
-        // Where they are useful? - dynamic text or dynamic elements
+        // Where they are useful? - at dynamic text or dynamic elements
         // They are useful when the attribute value is some constant and some dynamic
         // i.e., In scooty make scoot a constant , later "y" can be replaced with other alphabets like scooter
-        //  title = "pramod_2323"
-        // starts-with -> pramod, contains - Partial Match
+        // Xpath - Functions -> text(), contains, start-with, end-with(), sub-string, normlize-space - trim the text
 
         // //img[contains(@title,"Flip")]
 
